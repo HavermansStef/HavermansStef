@@ -5,3 +5,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HavermansStef/count.svg" />
 </p>
+
+Check out my full resume at https://registry.jsonresume.org/havermansstef or have a look at my profile. 
