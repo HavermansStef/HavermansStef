@@ -1,4 +1,6 @@
+<p align="center">
 ![](logo.3b18b920.gif)
+</p>
 
 <p align="center"> 
   Visitor count<br>
