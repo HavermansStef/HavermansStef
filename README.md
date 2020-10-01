@@ -4,8 +4,10 @@
   <img src="https://raw.githubusercontent.com/HavermansStef/HavermansStef/master/logo.3b18b920.gif" /><br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HavermansStef/count.svg" />
-  
-  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 </p>
 
 Check out my full resume at https://registry.jsonresume.org/havermansstef or have a look at my profile. 
+
+<p align="center">
+    ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HavermansStef&theme=blue-green)
+</p>
