@@ -7,7 +7,3 @@
 </p>
 
 Check out my full resume at https://registry.jsonresume.org/havermansstef or have a look at my profile. 
-
-<p align="center">
-    ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=HavermansStef&theme=blue-green)
-</p>
